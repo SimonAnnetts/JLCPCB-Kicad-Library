@@ -368,7 +368,7 @@ def generate_kicad_symbol_libs(symbols):
     for lib_name, symbol_list in symbols.items():
         lib_content = "(kicad_symbol_lib\n"
         lib_content += "\t(version 20231120)\n"
-        lib_content += '\t(generator "CDFER")\n'
+        lib_content += '\t(generator "SA-JLCPCB-Kicad-Library")\n'
         lib_content += '\t(generator_version "8.0")\n'
         for symbol in symbol_list:
             lib_content += symbol + "\n"
@@ -420,7 +420,7 @@ def check_models():
             if match:
                 model_path = match.group(1)
                 model = re.search(
-                    r'/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/([^"]+).step', model_path
+                    r'/3dmodels/com_github_SimonAnnetts_JLCPCB-Kicad-Library/JLCPCB.3dshapes/([^"]+).step', model_path
                 )
                 if model:
                     model = model.group(1)
@@ -516,7 +516,7 @@ def check_footprints():
 
 
 # Download the latest basic/preferred csv file
-download_file("https://cdfer.github.io/jlcpcb-parts-database", "jlcpcb-components-basic-preferred.csv")
+download_file("https://simonannetts.github.io/jlcpcb-parts-database", "jlcpcb-components-basic-preferred.csv")
 
 df = pd.read_csv("jlcpcb-components-basic-preferred.csv")
 catalog_complete = source_catalog_complete(df["category"])

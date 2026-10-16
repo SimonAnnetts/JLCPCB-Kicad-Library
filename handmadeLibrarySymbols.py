@@ -75,7 +75,7 @@ def update_component_inplace(lcsc, libraryName, properties):
 
 symbol_header_lines = """(kicad_symbol_lib
     (version 20231120)
-    (generator "CDFER_Archive_Tool")
+    (generator "SA-JLCPCB-Kicad-Library_Archive_Tool")
     (generator_version "0.0")
  """
 
