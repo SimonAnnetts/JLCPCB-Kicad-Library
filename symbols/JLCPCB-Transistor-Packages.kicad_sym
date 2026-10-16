@@ -32,7 +32,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Texas-Instruments-ULN2003ADR_C7512.pdf"
+		(property "Datasheet" "https://www.ti.com/cn/lit/gpn/uln2003a"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -60,7 +60,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "402827"
+		(property "Stock" "365093"
 			(at 0 1.27 0)
 			(effects
 				(font
@@ -69,7 +69,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.154USD"
+		(property "Price" "0.176USD"
 			(at 0 1.27 0)
 			(effects
 				(font
@@ -114,7 +114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Transistors,Darlington Transistor Arrays"
+		(property "Category" "Transistors/Thyristors,Darlington Transistor Arrays"
 			(at 0 0 0)
 			(effects
 				(font
@@ -232,6 +232,87 @@
 			)
 		)
 		(property "Maximum Collector Emitter Voltage (Vceo)" "50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Input(Max)" "30V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf)" "1.7V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vce Saturation(Vce(Sat))" "1.6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "BJT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "50uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Output Leakage Current(Icex)" "50uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Input Capacitiance(Ci)" "15pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Collector(Ic)" "500mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Collector - Emitter Voltage Vceo" "50V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -605,7 +686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401111808_hongjiacheng-HJ8205_C20069150.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755885272041308160"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -633,7 +714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "63201"
+		(property "Stock" "49589"
 			(at 0 0 0)
 			(effects
 				(font
@@ -642,7 +723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.057USD"
+		(property "Price" "0.048USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -687,7 +768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Triode/MOS Tube/Transistor,MOSFETs"
+		(property "Category" "Transistors/Thyristors,MOSFETs"
 			(at 0 0 0)
 			(effects
 				(font
@@ -706,6 +787,114 @@
 			)
 		)
 		(property "Part" "HJ8205"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "N-Channel"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Transfer Capacitance (Crss@Vds)" "138pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Rds(On)" "46mΩ@2.5V, 30mΩ@4V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pd - Power Dissipation" "1.25W"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Output Capacitance(Coss)" "164pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number" "2 N-Channel"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Input Capacitance(Ciss)" "550pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Gate Threshold Voltage (Vgs(Th))" "1V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Gate Charge(Qg)" "6.2nC@4.5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Drain To Source Voltage" "20V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Continuous Drain(Id)" "4.3A"
 			(at 0 0 0)
 			(effects
 				(font

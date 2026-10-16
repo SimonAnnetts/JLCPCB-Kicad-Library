@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-Crystal-Oscillators-X5032110592MSB2GI_C112574.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756945607259381760"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -43,7 +43,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-40°C~+85°C 11.0592MHz 20pF Crystal Oscillator ±10ppm ±20ppm SMD5032-2P Crystals ROHS"
+		(property "Description" "-40°C~+85°C 11.0592MHz 20pF 80Ω Crystal Oscillator ±10ppm ±20ppm SMD5032-2P Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -61,7 +61,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "12869"
+		(property "Stock" "6192"
 			(at 0 0 0)
 			(effects
 				(font
@@ -70,7 +70,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.273USD"
+		(property "Price" "0.312USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -115,7 +115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Crystals/Oscillators/Resonators,Crystals"
+		(property "Category" "Crystals, Oscillators, Resonators,Crystals"
 			(at 0 0 0)
 			(effects
 				(font
@@ -124,7 +124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yangxing Tech"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 0 0 0)
 			(effects
 				(font
@@ -205,7 +205,16 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "Surface Mount Crystal"
+		(property "Type" "SMD crystal oscillator"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Equivalent Series Resistance(Esr)" "80Ω"
 			(at 0 0 0)
 			(effects
 				(font
@@ -355,7 +364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-Crystal-Oscillators-X322512MSB4SI_C9002.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756945081817948160"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -365,7 +374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-40°C~+85°C 12MHz 20pF Crystal Oscillator ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
+		(property "Description" "-40°C~+85°C 12MHz 20pF 80Ω Crystal Oscillator ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -383,7 +392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "641549"
+		(property "Stock" "134433"
 			(at 0 0 0)
 			(effects
 				(font
@@ -392,7 +401,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.075USD"
+		(property "Price" "0.102USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -419,7 +428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Attrition Qty" "4"
+		(property "Attrition Qty" "2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -437,7 +446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Crystals/Oscillators/Resonators,Crystals"
+		(property "Category" "Crystals, Oscillators, Resonators,Crystals"
 			(at 0 0 0)
 			(effects
 				(font
@@ -446,7 +455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yangxing Tech"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 0 0 0)
 			(effects
 				(font
@@ -527,7 +536,16 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "Surface Mount Crystal"
+		(property "Type" "SMD crystal oscillator"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Equivalent Series Resistance(Esr)" "80Ω"
 			(at 0 0 0)
 			(effects
 				(font
@@ -772,7 +790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-Crystal-Oscillators-X322516MLB4SI_C13738.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756945118584811520"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -782,7 +800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-40°C~+85°C 16MHz 9pF Crystal Oscillator ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
+		(property "Description" "-40°C~+85°C 16MHz 50Ω 9pF Crystal Oscillator ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -800,7 +818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "443913"
+		(property "Stock" "178441"
 			(at 0 0 0)
 			(effects
 				(font
@@ -809,7 +827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.073USD"
+		(property "Price" "0.100USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -854,7 +872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Crystals/Oscillators/Resonators,Crystals"
+		(property "Category" "Crystals, Oscillators, Resonators,Crystals"
 			(at 0 0 0)
 			(effects
 				(font
@@ -863,7 +881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yangxing Tech"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 0 0 0)
 			(effects
 				(font
@@ -944,7 +962,16 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "Surface Mount Crystal"
+		(property "Type" "SMD crystal oscillator"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Equivalent Series Resistance(Esr)" "50Ω"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1189,7 +1216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-Crystal-Oscillators-X322525MOB4SI_C9006.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756945091237679104"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -1199,7 +1226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-40°C~+85°C 12pF 25MHz Crystal Oscillator ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
+		(property "Description" "-40°C~+85°C 12pF 25MHz 50Ω Crystal Oscillator ±10ppm ±20ppm SMD3225-4P Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1217,7 +1244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "528210"
+		(property "Stock" "216729"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1226,7 +1253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.074USD"
+		(property "Price" "0.102USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1271,7 +1298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Crystals/Oscillators/Resonators,Crystals"
+		(property "Category" "Crystals, Oscillators, Resonators,Crystals"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1280,7 +1307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yangxing Tech"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1361,7 +1388,16 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "Surface Mount Crystal"
+		(property "Type" "SMD crystal oscillator"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Equivalent Series Resistance(Esr)" "50Ω"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1607,7 +1643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2404180925_Seiko-Epson-Q13FC13500004_C32346.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8629475189295955968"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -1635,7 +1671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "614447"
+		(property "Stock" "380576"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1644,7 +1680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.168USD"
+		(property "Price" "0.176USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1689,7 +1725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Crystals/Oscillators/Resonators,Crystals"
+		(property "Category" "Crystals, Oscillators, Resonators,Crystals"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1788,7 +1824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "Surface Mount Crystal"
+		(property "Type" "SMD crystal oscillator"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1935,7 +1971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-Crystal-Oscillators-X50328MSB2GI_C115962.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756945667841232896"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -1945,7 +1981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-40°C~+85°C 20pF 8MHz Crystal Oscillator ±10ppm ±20ppm SMD5032-2P Crystals ROHS"
+		(property "Description" "-40°C~+85°C 20pF 80Ω 8MHz Crystal Oscillator ±10ppm ±20ppm SMD5032-2P Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1963,7 +1999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "438606"
+		(property "Stock" "243377"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1972,7 +2008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.199USD"
+		(property "Price" "0.250USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2017,7 +2053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Crystals/Oscillators/Resonators,Crystals"
+		(property "Category" "Crystals, Oscillators, Resonators,Crystals"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2026,7 +2062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yangxing Tech"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2107,7 +2143,16 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "Surface Mount Crystal"
+		(property "Type" "SMD crystal oscillator"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Equivalent Series Resistance(Esr)" "80Ω"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2257,7 +2302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-Crystal-Oscillators-X49SM8MSD2SC_C12674.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756947380208189440"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -2267,7 +2312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-20°C~+70°C 20pF 8MHz Crystal Oscillator ±20ppm ±30ppm HC-49S-SMD Crystals ROHS"
+		(property "Description" "-20°C~+70°C 20pF 70Ω 8MHz Crystal Oscillator ±20ppm ±30ppm HC-49S-SMD Crystals ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2285,7 +2330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "375706"
+		(property "Stock" "152715"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2294,7 +2339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.089USD"
+		(property "Price" "0.102USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2339,7 +2384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Crystals/Oscillators/Resonators,Crystals"
+		(property "Category" "Crystals, Oscillators, Resonators,Crystals"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2348,7 +2393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Yangxing Tech"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2429,7 +2474,16 @@
 				(hide yes)
 			)
 		)
-		(property "Type" "Surface Mount Crystal"
+		(property "Type" "SMD crystal oscillator"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Equivalent Series Resistance(Esr)" "70Ω"
 			(at 0 0 0)
 			(effects
 				(font

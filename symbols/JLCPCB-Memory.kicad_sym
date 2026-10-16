@@ -32,7 +32,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811142111_Winbond-Elec-W25Q128JVSIQ_C97521.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8771193216463196160"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -42,7 +42,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-40°C~+85°C 100,000 cycles 120ms@(32KB) 128Mbit 133MHz 1uA 2.7V~3.6V 20 Years 3ms SPI SOIC-8-208mil NOR FLASH ROHS"
+		(property "Description" "-40°C~+85°C 100,000 cycles 120ms@(32KB) 128Mbit 133MHz 1uA 2.7V~3.6V 20 Years 3ms Power-on reset、Hardware write protection、Software write protection、Write enable latch、Absolute write protection SPI SOIC-8-208mil NOR FLASH ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -60,7 +60,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "175995"
+		(property "Stock" "66921"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69,7 +69,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "1.984USD"
+		(property "Price" "2.587USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -142,6 +142,96 @@
 			)
 		)
 		(property "Memory Size" "128Mbit"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Supply" "2.7V~3.6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Standby Supply Current" "1uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Program / Erase Cycles" "100,000 cycles"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Page Programming Time (Tpp)" "3ms"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-40°C~+85°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Interface" "SPI"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Features" "Power-on reset, Hardware write protection, Software write protection, Write enable latch, Absolute write protection"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Data Retention - Tdr (Year)" "20 Years"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clock Frequency" "133MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Block Erase Time(Tbe)" "120ms@(32KB)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -347,7 +437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Microchip-Tech-AT24C256C-SSHL-T_C6482.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579708780470734848"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -375,7 +465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "62763"
+		(property "Stock" "73332"
 			(at 0 0 0)
 			(effects
 				(font
@@ -384,7 +474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.351USD"
+		(property "Price" "0.361USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -484,6 +574,96 @@
 			)
 		)
 		(property "Operating Temperature" "-40°C~+85°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Write Cycle Time(Tw)" "5ms"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Write Cycle Endurance" "1,000,000 cycles"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Supply" "1.7V~5.5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Standby Current" "6uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Current" "2mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Interface" "I2C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Features" "Hardware write protection function, Noise suppression function"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Data Retention - Tdr (Year)" "40 Years"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clock Frequency" "1MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Access Time" "550ns, 900ns"
 			(at 0 0 0)
 			(effects
 				(font
@@ -689,7 +869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1809261911_STMicroelectronics-M24C64-RMN6TP_C79988.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579708845646024704"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -717,7 +897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "244435"
+		(property "Stock" "139092"
 			(at 0 0 0)
 			(effects
 				(font
@@ -726,7 +906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.135USD"
+		(property "Price" "0.165USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -826,6 +1006,87 @@
 			)
 		)
 		(property "Operating Temperature" "-40°C~+85°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Write Cycle Time(Tw)" "5ms"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Write Cycle Endurance" "4,000,000 Cycles"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Supply" "1.8V~5.5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Standby Current" "3uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Current" "2.5mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Interface" "I2C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Features" "Hardware write protection function, Built-in power-on reset (POR), Built-in error correction code (ECC) function"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Data Retention - Tdr (Year)" "200 Years"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clock Frequency" "1MHz"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1031,7 +1292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1809061818_STMicroelectronics-M24C02-WMN6TP_C7562.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579708834729738240"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -1059,7 +1320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "15219"
+		(property "Stock" "217039"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1068,7 +1329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.130USD"
+		(property "Price" "0.143USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1168,6 +1429,96 @@
 			)
 		)
 		(property "Operating Temperature" "-40°C~+85°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Write Cycle Time(Tw)" "5ms"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Write Cycle Endurance" "4,000,000 Cycles"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Supply" "2.5V~5.5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Standby Current" "3uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Current" "1mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Interface" "I2C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Features" "Hardware write protection function, Built-in power-on reset (POR)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Data Retention - Tdr (Year)" "200 Years"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clock Frequency" "400kHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Access Time" "900ns"
 			(at 0 0 0)
 			(effects
 				(font

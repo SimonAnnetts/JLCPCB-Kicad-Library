@@ -32,7 +32,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2407101125_MDD-Microdiode-Semiconductor-DB107S_C5377.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707616166985728"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -60,7 +60,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "183866"
+		(property "Stock" "224657"
 			(at 0 0 0)
 			(effects
 				(font
@@ -69,7 +69,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.058USD"
+		(property "Price" "0.076USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -123,7 +123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "MDD（Microdiode Electronics）"
+		(property "Manufacturer" "MDD Microdiode Semiconductor"
 			(at 0 0 0)
 			(effects
 				(font
@@ -196,6 +196,60 @@
 			)
 		)
 		(property "Rectified Current" "1A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1.1V@1A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "1kV"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Single-Phase Rectifier"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "30A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "1A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -329,7 +383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2408090954_MDD-Microdiode-Semiconductor-MB10S_C2488.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707626424631296"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -357,7 +411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "275744"
+		(property "Stock" "621923"
 			(at 0 0 0)
 			(effects
 				(font
@@ -366,7 +420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.030USD"
+		(property "Price" "0.034USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -420,7 +474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "MDD（Microdiode Electronics）"
+		(property "Manufacturer" "nan"
 			(at 0 0 0)
 			(effects
 				(font
@@ -493,6 +547,60 @@
 			)
 		)
 		(property "Rectified Current" "1A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1.1V@400mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "1kV"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Single-Phase Rectifier"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "35A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "1A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -628,7 +736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406191611_hongjiacheng-BAT54TW_C22466376.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755886777829593088"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -656,7 +764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "79128"
+		(property "Stock" "107571"
 			(at 0 0 0)
 			(effects
 				(font
@@ -665,7 +773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.041USD"
+		(property "Price" "0.050USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -729,6 +837,69 @@
 			)
 		)
 		(property "Part" "BAT54TW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1V@100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "30V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "2uA@25V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "600mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Diode Configuration" "3 Independent"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1043,7 +1214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2306301553_hongjiacheng-H5VU25U_C7420374.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8757895218006114304"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -1071,7 +1242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "67408"
+		(property "Stock" "6550"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1080,7 +1251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.049USD"
+		(property "Price" "0.060USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1125,7 +1296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,ESD Protection Devices"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1233,7 +1404,52 @@
 				(hide yes)
 			)
 		)
-		(property "Operating Temperature" "-55°C~+155°C"
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number Of Channels" "Four channels"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "0.5pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "14V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2007,7 +2223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261524_hongjiacheng-H5VU25UC_C20615800.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755885393155895296"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -2035,7 +2251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "19419"
+		(property "Stock" "14273"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2044,7 +2260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.040USD"
+		(property "Price" "0.049USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2089,7 +2305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2108,6 +2324,105 @@
 			)
 		)
 		(property "Part" "H5VU25UC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "10V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "1uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Unidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "75W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "5A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "0.8pF, 0.4pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "15V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2870,7 +3185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2405091603_hongjiacheng-H5VUT1B_C22395520.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315525469216768"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -2898,7 +3213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "4968"
+		(property "Stock" "4427"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2907,7 +3222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.053USD"
+		(property "Price" "0.075USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2971,6 +3286,105 @@
 			)
 		)
 		(property "Part" "H5VUT1B"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "500nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Bidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "75W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "5A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "0.6pF, 0.3pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "15V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3417,7 +3831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H5VUT2U_C20615824.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315245982175232"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -3445,7 +3859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "40882"
+		(property "Stock" "129653"
 			(at 1.27 0 0)
 			(effects
 				(font
@@ -3454,7 +3868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.033USD"
+		(property "Price" "0.064USD"
 			(at 1.27 0 0)
 			(effects
 				(font
@@ -3499,7 +3913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3518,6 +3932,105 @@
 			)
 		)
 		(property "Part" "H5VUT2U"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "9V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "200nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Unidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "80W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "5A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "0.6pF, 0.3pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "16V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3910,7 +4423,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H5VUT3UA_C20615830.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755885413330767872"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -3938,7 +4451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "17345"
+		(property "Stock" "12239"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3947,7 +4460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.071USD"
+		(property "Price" "0.064USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3992,7 +4505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4011,6 +4524,105 @@
 			)
 		)
 		(property "Part" "H5VUT3UA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "500nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Unidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "75W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "5A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "0.8pF, 0.4pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "15V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4710,7 +5322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810311712_onsemi-SMF05CT1G_C15879.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709093222932480"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -4738,7 +5350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "52884"
+		(property "Stock" "48982"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4747,7 +5359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.170USD"
+		(property "Price" "0.142USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4774,7 +5386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Attrition Qty" "0"
+		(property "Attrition Qty" "2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4792,7 +5404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Circuit Protection,ESD Protection Devices"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4864,7 +5476,97 @@
 				(hide yes)
 			)
 		)
-		(property "Operating Temperature" "-40°C~+125°C@(Tj)"
+		(property "Operating Temperature" "-40°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "7.2V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "TVS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "5uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Bidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "100W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "8A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number Of Channels" "5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "80pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "12.5V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5343,7 +6045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1809192313_ProTek-Devices-SRV05-4-P-T7_C85364.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709102848999424"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -5371,7 +6073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "20621"
+		(property "Stock" "37842"
 			(at 1.27 1.27 0)
 			(effects
 				(font
@@ -5380,7 +6082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.180USD"
+		(property "Price" "0.215USD"
 			(at 1.27 1.27 0)
 			(effects
 				(font
@@ -5425,7 +6127,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Circuit Protection,TVS"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5480,6 +6182,87 @@
 			)
 		)
 		(property "Breakdown Voltage" "6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5, IEC 61000-4-4"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "5uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "500W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "1A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number Of Channels" "Four channels"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "3.5pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "12V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7878,7 +8661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281443_hongjiacheng-BAS40_C7502685.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882802665394176"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -7906,7 +8689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "1708"
+		(property "Stock" "102769"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7915,7 +8698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.018USD"
+		(property "Price" "0.021USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7996,7 +8779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Diode Configuration" "Independent Type"
+		(property "Diode Configuration" "1 Independent"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8024,6 +8807,42 @@
 			)
 		)
 		(property "Rectified Current" "200mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1V@40mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "40V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "600mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8199,7 +9018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281531_hongjiacheng-BAS70-04_C7502687.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882808974032896"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -8227,7 +9046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "121503"
+		(property "Stock" "439839"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8236,7 +9055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.022USD"
+		(property "Price" "0.028USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8281,7 +9100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+		(property "Category" "Diodes,Schottky Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8300,6 +9119,69 @@
 			)
 		)
 		(property "Part" "BAS70-04"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1V@15mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "70V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "100nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Diode Configuration" "1 Pair Series Connection"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "70mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8535,7 +9417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406171618_hongjiacheng-BAS70-06_C22466364.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882544204263424"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -8563,7 +9445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "131335"
+		(property "Stock" "22768"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8636,6 +9518,69 @@
 			)
 		)
 		(property "Part" "BAS70-06"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1V@15mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "70V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "200nA@50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Diode Configuration" "1 Pair Common Anode"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "70mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8801,7 +9746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406171613_hongjiacheng-BAS70W-05_C22466366.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882558011777024"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -8829,7 +9774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "14508"
+		(property "Stock" "2363"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -8838,7 +9783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.026USD"
+		(property "Price" "0.036USD"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -8902,6 +9847,60 @@
 			)
 		)
 		(property "Part" "BAS70W-05"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1V@15mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "70V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "100nA@50V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Diode Configuration" "1 Pair Common Cathode"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "70mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9114,7 +10113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406191606_hongjiacheng-BAT54AW_C22466374.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882577872076800"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -9142,7 +10141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "11515"
+		(property "Stock" "6072"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9151,7 +10150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.023USD"
+		(property "Price" "0.025USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9215,6 +10214,60 @@
 			)
 		)
 		(property "Part" "BAT54AW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1V@100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "30V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "2uA@25V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "600mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Diode Configuration" "1 Pair Common Anode"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9380,7 +10433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2407241028_Nexperia-BAT54C-215_C37704.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586177223473053696"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -9408,7 +10461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "98299"
+		(property "Stock" "274461"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -9417,7 +10470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.040USD"
+		(property "Price" "0.023USD"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -9462,7 +10515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+		(property "Category" "Diodes,Schottky Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9525,7 +10578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Diode Configuration" "1 pair of common cathodes"
+		(property "Diode Configuration" "1 Pair Common Cathode"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9535,6 +10588,42 @@
 			)
 		)
 		(property "Rectified Current" "200mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "800mV@100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "30V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "600mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9700,7 +10789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2405071138_hongjiacheng-BAT54CW_C22392482.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882415673876480"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -9728,7 +10817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "43888"
+		(property "Stock" "332660"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9737,7 +10826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.024USD"
+		(property "Price" "0.027USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9818,7 +10907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Diode Configuration" "1 pair of common cathodes"
+		(property "Diode Configuration" "1 Pair Common Cathode"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9846,6 +10935,42 @@
 			)
 		)
 		(property "Rectified Current" "200mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1V@100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "30V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "600mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10010,7 +11135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406171614_hongjiacheng-BAT54C_C22466350.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882494435057664"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -10038,7 +11163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "446"
+		(property "Stock" "732224"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10047,7 +11172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.018USD"
+		(property "Price" "0.022USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10111,6 +11236,60 @@
 			)
 		)
 		(property "Part" "BAT54C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1V@100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "30V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "2uA@25V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "600mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Diode Configuration" "1 Pair Common Cathode"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10323,7 +11502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2406191606_hongjiacheng-BAT54SW_C22466373.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882574667358208"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -10351,7 +11530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "219593"
+		(property "Stock" "320517"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10360,7 +11539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.022USD"
+		(property "Price" "0.024USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10424,6 +11603,60 @@
 			)
 		)
 		(property "Part" "BAT54SW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1V@100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "30V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "2uA@25V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "600mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Diode Configuration" "1 Pair Series Connection"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10588,7 +11821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310171613_hongjiacheng-BAT54S_C7420333.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882743652212736"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -10616,7 +11849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "757295"
+		(property "Stock" "1074536"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -10625,7 +11858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.016USD"
+		(property "Price" "0.019USD"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -10670,7 +11903,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+		(property "Category" "Diodes,Schottky Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10715,7 +11948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Diode Configuration" "Dual"
+		(property "Diode Configuration" "1 Pair Series Connection"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10743,6 +11976,42 @@
 			)
 		)
 		(property "Forward Voltage (Vf@If)" "0.4V@10mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "400mV@10mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "30V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "600mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10908,7 +12177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281443_hongjiacheng-1SS181_C7502730.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755887507441627136"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -10936,7 +12205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "40065"
+		(property "Stock" "24422"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10945,7 +12214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.015USD"
+		(property "Price" "0.016USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10990,7 +12259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11072,6 +12341,69 @@
 			)
 		)
 		(property "Rectified Current" "100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1.2V@100mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "80V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "500nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pd - Power Dissipation" "150mW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "2A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "100mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11283,7 +12615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401290620_hongjiacheng-BAS21S_C7502726.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882924783230976"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -11311,7 +12643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "241484"
+		(property "Stock" "23194"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11320,7 +12652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.018USD"
+		(property "Price" "0.017USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11365,7 +12697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11384,6 +12716,87 @@
 			)
 		)
 		(property "Part" "BAS21S"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1.25V@200mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "250V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Recovery Time (Trr)" "50ns"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "100nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pd - Power Dissipation" "225mW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "2.5A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Diode Configuration" "1 Pair Series Connection"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11595,7 +13008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--BAV70_C68978.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8604753508130844672"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -11623,7 +13036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "445960"
+		(property "Stock" "342086"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11632,7 +13045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.019USD"
+		(property "Price" "0.023USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11677,7 +13090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11686,7 +13099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Changjiang Electronics Tech (CJ)"
+		(property "Manufacturer" "Jiangsu Changjing Electronics Technology Co Ltd"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11713,7 +13126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Diode Configuration" "1 pair of common cathodes"
+		(property "Diode Configuration" "1 Pair Common Cathode"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11777,6 +13190,69 @@
 			)
 		)
 		(property "Rectified Current" "200mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1.25V@150mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "70V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "2.5uA@70V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pd - Power Dissipation" "225mW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "2A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11941,7 +13417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404031008_hongjiacheng-BAV70_C7420335.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882751398551552"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -11969,7 +13445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "5475"
+		(property "Stock" "423387"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11978,7 +13454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.015USD"
+		(property "Price" "0.018USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12023,7 +13499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12059,7 +13535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Diode Configuration" "Dual Common Cathode"
+		(property "Diode Configuration" "1 Pair Common Cathode"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12114,6 +13590,69 @@
 			)
 		)
 		(property "Operating Temperature" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1.25V@150mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "70V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "2.5uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pd - Power Dissipation" "225mW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "2A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12278,7 +13817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2407250951_Nexperia-BAV99-215_C2500.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707661589811200"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -12306,7 +13845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "811701"
+		(property "Stock" "1125349"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12315,7 +13854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.021USD"
+		(property "Price" "0.017USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12360,7 +13899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12396,7 +13935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Diode Configuration" "1 pair in series"
+		(property "Diode Configuration" "1 Pair Series Connection"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12460,6 +13999,60 @@
 			)
 		)
 		(property "Rectified Current" "215mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1.25V@150mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "100V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "500nA@80V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pd - Power Dissipation" "250mW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "4A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "125mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12707,7 +14300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404031008_hongjiacheng-BAV99_C7420336.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755882755039612928"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -12735,7 +14328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "857401"
+		(property "Stock" "2243880"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12744,7 +14337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.015USD"
+		(property "Price" "0.017USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12789,7 +14382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Diodes,Switching Diode"
+		(property "Category" "Diodes,Switching Diodes"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12825,7 +14418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Diode Configuration" "Dual"
+		(property "Diode Configuration" "1 Pair Series Connection"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12880,6 +14473,69 @@
 			)
 		)
 		(property "Operating Temperature" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf@If)" "1.25V@150mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Dc Reverse(Vr)" "70V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "2.5uA@75V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pd - Power Dissipation" "225mW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Junction Temperature Range" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Non-Repetitive Peak Forward Surge Current" "2A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current - Rectified" "200mA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13080,7 +14736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402021507_hongjiacheng-H15VNT2B_C20617928.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315481110798336"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -13108,7 +14764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "12021"
+		(property "Stock" "57653"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13117,7 +14773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.048USD"
+		(property "Price" "0.065USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13162,7 +14818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13181,6 +14837,105 @@
 			)
 		)
 		(property "Part" "H15VNT2B"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "19V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "15V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "200nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Bidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "300W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "8A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "25pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "38.5V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13381,7 +15136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H24VNT2B_C20615827.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315272225800192"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -13409,7 +15164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "18806"
+		(property "Stock" "196031"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13418,7 +15173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.047USD"
+		(property "Price" "0.065USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13463,7 +15218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13482,6 +15237,105 @@
 			)
 		)
 		(property "Part" "H24VNT2B"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "30V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "24V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "1uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Bidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "385W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "7A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "36pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "55V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13718,7 +15572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H36VLT2B_C20615828.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315283328393216"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -13746,7 +15600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "7777"
+		(property "Stock" "3768"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13755,7 +15609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.046USD"
+		(property "Price" "0.060USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13800,7 +15654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13827,7 +15681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Polarity" "Bi-Directional"
+		(property "Polarity" "Bidirectional"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13899,7 +15753,61 @@
 				(hide yes)
 			)
 		)
-		(property "Operating Temperature" "-55°C~+155°C"
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "45V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "300W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "4A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "18pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "75V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14136,7 +16044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402021507_hongjiacheng-H3V3HT2B_C20617923.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315426487701504"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -14164,7 +16072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "43917"
+		(property "Stock" "21680"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14173,7 +16081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.031USD"
+		(property "Price" "0.042USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14191,7 +16099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Minimum Qty" "5"
+		(property "Minimum Qty" "10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14218,7 +16126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14237,6 +16145,105 @@
 			)
 		)
 		(property "Part" "H3V3HT2B"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "7V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "3.3V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "1uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Bidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "350W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "25A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "100pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "15V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14449,7 +16456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2405091603_hongjiacheng-H4V5H22B_C22395518.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315503822278656"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -14477,7 +16484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "5925"
+		(property "Stock" "25913"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14486,7 +16493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.092USD"
+		(property "Price" "0.148USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14550,6 +16557,105 @@
 			)
 		)
 		(property "Part" "H4V5H22B"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "4.5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "1uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Bidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "5.88kW@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "280A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "650pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "21V, 8.5V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14703,7 +16809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402021507_hongjiacheng-H5VHT2B_C20617926.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315459619184640"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -14731,7 +16837,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "5864"
+		(property "Stock" "32241"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14740,7 +16846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.048USD"
+		(property "Price" "0.063USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14785,7 +16891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14804,6 +16910,105 @@
 			)
 		)
 		(property "Part" "H5VHT2B"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "8V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "200nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Bidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "415W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "25A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "185pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "16.7V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15028,7 +17233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402021507_hongjiacheng-H5VNT2B_C20617925.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315449065910272"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -15056,7 +17261,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "119431"
+		(property "Stock" "98177"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15065,7 +17270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.035USD"
+		(property "Price" "0.043USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15083,7 +17288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Minimum Qty" "10"
+		(property "Minimum Qty" "5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15110,7 +17315,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15129,6 +17334,105 @@
 			)
 		)
 		(property "Part" "H5VNT2B"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "8V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "100nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Bidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "95W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "8A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "20pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "12V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15379,7 +17683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H8VNT2B_C20615825.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315250964738048"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -15407,7 +17711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "62762"
+		(property "Stock" "44701"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15416,7 +17720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.045USD"
+		(property "Price" "0.046USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15461,7 +17765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15480,6 +17784,105 @@
 			)
 		)
 		(property "Part" "H8VNT2B"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "12V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "8V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "1uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Bidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "500W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "20A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "60pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "25V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15716,7 +18119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709112560435200"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -15744,7 +18147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "223826"
+		(property "Stock" "188977"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15753,7 +18156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.314USD"
+		(property "Price" "0.331USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15798,7 +18201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Circuit Protection,TVS"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15844,6 +18247,96 @@
 			)
 		)
 		(property "Breakdown Voltage" "13.3V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5, IEC 61000-4-4"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "13.3V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "TVS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "1uA, 20uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Unidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "600W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "30A@8/20us, 34A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+150°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "75pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "19V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16082,7 +18575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281515_hongjiacheng-SM712_C7420375.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756317447979192320"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -16110,7 +18603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "104740"
+		(property "Stock" "538546"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16119,7 +18612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.070USD"
+		(property "Price" "0.078USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16164,7 +18657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,ESD Protection Devices"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16200,7 +18693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reverse Stand-Off Voltage (Vrwm)" "7V;12V"
+		(property "Reverse Stand-Off Voltage (Vrwm)" "7V, 12V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16218,7 +18711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Polarity" "Bi-Directional"
+		(property "Polarity" "Bidirectional"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16281,7 +18774,88 @@
 				(hide yes)
 			)
 		)
-		(property "Operating Temperature" "-55°C~125°C"
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "13.3V, 7.5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "1uA, 2uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "300W"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "12A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number Of Channels" "2"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "75pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "23V, 26V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16650,7 +19224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261524_hongjiacheng-H12VH22U_C20615799.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315043317735424"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -16678,7 +19252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "1256"
+		(property "Stock" "1036"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16687,7 +19261,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.065USD"
+		(property "Price" "0.084USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16732,7 +19306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16751,6 +19325,105 @@
 			)
 		)
 		(property "Part" "H12VH22U"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "16.5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "12V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "1uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Unidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "6kW@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "210A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "1.55nF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "30V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16903,7 +19576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H12VNT2U_C20615826.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315262121316352"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -16931,7 +19604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "14795"
+		(property "Stock" "9617"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16940,7 +19613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.022USD"
+		(property "Price" "0.035USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16985,7 +19658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17004,6 +19677,105 @@
 			)
 		)
 		(property "Part" "H12VNT2U"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "16V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "12V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "1uA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Unidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "430W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "16A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "60pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "27.6V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17204,7 +19976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261525_hongjiacheng-H5VHT2U_C20615823.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755885403247390720"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -17232,7 +20004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "10962"
+		(property "Stock" "21045"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17241,7 +20013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.032USD"
+		(property "Price" "0.040USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17286,7 +20058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17305,6 +20077,105 @@
 			)
 		)
 		(property "Part" "H5VHT2U"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "9V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "200nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Unidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "350W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "25A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "180pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "14V"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17505,7 +20376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401261524_hongjiacheng-H5VU13U_C20615795.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756315031933853696"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -17533,7 +20404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "30310"
+		(property "Stock" "58859"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17542,7 +20413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.030USD"
+		(property "Price" "0.036USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17587,7 +20458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "TVS/Fuse/Board Level Protection,Electrostatic And Surge Protection (TVS/ESD)"
+		(property "Category" "Circuit Protection,ESD And Surge Protection (TVS/ESD)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17606,6 +20477,105 @@
 			)
 		)
 		(property "Part" "H5VU13U"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Level Of Protection" "IEC 61000-4-2, IEC 61000-4-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Breakdown" "9V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" "5V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "200nA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Polarity" "Unidirectional"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" "75W@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" "5A@8/20us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+125°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Junction Capacitance" "0.8pF, 0.4pF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Clamping Voltage" "15V"
 			(at 0 0 0)
 			(effects
 				(font

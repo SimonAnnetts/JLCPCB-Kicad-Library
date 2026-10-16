@@ -38,7 +38,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811092010_Lite-On-LTV-217-B-G_C115450.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586197836349755392"
 			(at 0 0 0)
 			(effects
 				(font
@@ -75,7 +75,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Lite-On"
+		(property "Manufacturer" "Lite On"
 			(at 0 0 0)
 			(effects
 				(font
@@ -84,7 +84,7 @@
 				(hide yes)
 			)
 		)
-		(property "Category" "Optoelectronics,Optocouplers - Phototransistor Output"
+		(property "Category" "Optoisolators,Transistor, Photovoltaic Output Optoisolators"
 			(at 0 0 0)
 			(effects
 				(font
@@ -129,7 +129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "418418"
+		(property "Stock" "308422"
 			(at 0 0 0)
 			(effects
 				(font
@@ -138,7 +138,151 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.071USD"
+		(property "Price" "0.093USD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage - Forward(Vf)" "1.2V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vce Saturation(Vce(Sat))" "400mV@8mA,2.4mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Total Power Dissipation(Pd)" "200mW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Rise Time" "2us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Voltage" "6V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Output Type" "Phototransistor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Output Current" "50mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature" "-55°C~+110°C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Number Of Outputs" "1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Load Voltage" "70V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Isolation Voltage(Vrms)" "3.75kV"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Input Type" "DC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Forward Current(If)" "50mA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Fall Time" "3us"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current Transfer Ratio (Ctr) Minimum" "50%"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Current Transfer Ratio (Ctr) Maximum/Saturation Value" "600%"
 			(at 0 0 0)
 			(effects
 				(font
