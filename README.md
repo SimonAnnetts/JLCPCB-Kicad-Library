@@ -32,20 +32,14 @@ A full KiCad library containing matched schematic symbols and PCB footprints, co
 Add my custom repository to the Plugin and Content Manager, the URL is:
 
 ```
-https://raw.githubusercontent.com/CDFER/cd_fer-kicad-repository/main/repository.json
+https://raw.githubusercontent.com/SimonAnnetts/sa-kicad-repository/main/repository.json
 ```
 
 ![Add My Custom Kicad Package Repo](images/Add_Custom_Repo.avif)
 
 ![Select My Custom Kicad Package Repo and press install](images/Select_Custom_Repo.avif)
 
-After adding the repository link, press Save. Then, select CD_FER's KiCad repository from the dropdown menu and click on the JLCPCB KiCad Library. Finally, click the Install button and apply the pending changes.
-
-### Install Guide Video
-
-Thanks to Rob Frohne for putting the time in to make a video to guide you through how to install the library
-
-[**▶️ Watch the Install Guide Video**](https://www.youtube.com/watch?v=Bf6XzcvVBs4)
+After adding the repository link, press Save. Then, select Simon's KiCad repository from the dropdown menu and click on the JLCPCB KiCad Library. Finally, click the Install button and apply the pending changes.
 
 ### Updating the Library
 
@@ -62,16 +56,16 @@ KiCad currently doesn't support fully automatic updates but it does notify you a
 
 ### What is Attrition Quantity?
 
-**Attrition Quantity** is the number of parts that get wasted when setting up the machine (like during adjustments or errors).  
+**Attrition Quantity** is the number of parts that get wasted when setting up the machine (like during adjustments or errors).
 
-When you order parts, you need to buy **either**:  
+When you order parts, you need to buy **either**:
 
 1. The **minimum amount** the supplier allows (**JLCPCB’s minimum order quantity**), *or*
 
-2. **Enough for your product** (total parts needed) **+ extra** to cover wasted parts during setup.  
+2. **Enough for your product** (total parts needed) **+ extra** to cover wasted parts during setup.
 
-**Example**:  
-If you’re making 5 circuit boards, and each needs 10 resistors, you’d need 50 resistors. But if you expect 2 parts to be wasted (attrition), order **52 resistors total** (or the JLCPCB minimum, if it’s higher).  
+**Example**:
+If you’re making 5 circuit boards, and each needs 10 resistors, you’d need 50 resistors. But if you expect 2 parts to be wasted (attrition), order **52 resistors total** (or the JLCPCB minimum, if it’s higher).
 
 ## Editing this Library (for Pull Requests)
 
@@ -87,3 +81,4 @@ If you’re making 5 circuit boards, and each needs 10 resistors, you’d need 5
 This library is released under the MIT license
 
 © 2024 Chris Dirks
+© 2026 Simon Annetts
