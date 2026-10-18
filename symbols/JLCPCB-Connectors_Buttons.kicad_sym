@@ -460,7 +460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_XKB-Connection-TS-1187A-B-A-B_C318884.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724022091735041"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -488,7 +488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "1580676"
+		(property "Stock" "296384"
 			(at 0 0 0)
 			(effects
 				(font
@@ -497,7 +497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.025USD"
+		(property "Price" "0.028USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -551,7 +551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "XKB Connectivity"
+		(property "Manufacturer" "XKB Connection"
 			(at 0 0 0)
 			(effects
 				(font
@@ -596,7 +596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Operating Force" "160gf"
+		(property "Operating Force" "1.6N"
 			(at 0 0 0)
 			(effects
 				(font
@@ -605,7 +605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Actuator/Cap Color" "Golden"
+		(property "Actuator/Cap Color" "Gold"
 			(at 0 0 0)
 			(effects
 				(font
@@ -687,6 +687,60 @@
 			)
 		)
 		(property "Mounting Style" "Brick nogging"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "With Bracket" "Without Bracket"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" "5.1mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "12V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting Type" "Surface Mount,Vertical"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Life" "100,000 cycles"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" "5.1mm"
 			(at 0 0 0)
 			(effects
 				(font
