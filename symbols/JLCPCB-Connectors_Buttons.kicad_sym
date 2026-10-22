@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_XUNPU-TS-1088-AR02016_C720477.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588886944068096000"
 			(at -2.286 0.127 0)
 			(effects
 				(font
@@ -43,7 +43,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-30°C~+80°C 1.6N 100,000 cycles 12V 2mm 3mm 4mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS"
+		(property "Description" "-30°C~+80°C 1.6N 100,000 cycles 12V 2mm 3.9mm 3mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -61,7 +61,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "619530"
+		(property "Stock" "561602"
 			(at 0 0 0)
 			(effects
 				(font
@@ -70,7 +70,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.053USD"
+		(property "Price" "0.056USD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -169,7 +169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Operating Force" "160gf@±50gf"
+		(property "Operating Force" "1.6N"
 			(at 0 0 0)
 			(effects
 				(font
@@ -278,6 +278,69 @@
 			)
 		)
 		(property "Pin Style" "SMDSplicing"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "With Bracket" "Without Bracket"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Width" "3mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "12V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Termination Style" "SMD(SMT) Tab"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mounting Type" "Surface Mount,Vertical"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Life" "100,000 cycles"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Length" "3.9mm"
 			(at 0 0 0)
 			(effects
 				(font
